@@ -14,7 +14,7 @@ public class  MathCalculator{
     }
     
     /**
-      This is a getName method
+      This is a getName method.
     */
 
     public String getName() {
