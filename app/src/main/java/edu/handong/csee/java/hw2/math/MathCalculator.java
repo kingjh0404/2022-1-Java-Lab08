@@ -7,7 +7,7 @@ package edu.handong.csee.java.hw2.math;
 public class  MathCalculator{
     private String name;
     /**
-      This is a setName method
+      This is a setName method.
     */
     public void setName(String name){
         this.name = name;
